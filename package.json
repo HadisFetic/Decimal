@@ -1,0 +1,26 @@
+{
+  "name": "decimal",
+  "version": "1.0.0",
+  "description": "Decimal Backend-focused Take Home Exercise",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HadisFetic/Decimal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HadisFetic/Decimal/issues"
+  },
+  "homepage": "https://github.com/HadisFetic/Decimal#readme",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "pg": "^8.8.0"
+  }
+}
